@@ -1,0 +1,14 @@
+- model: myapp.course
+  pk: 1
+  fields:
+    id: 1
+    name: fern
+    teacher: gg
+
+- model: myapp.course
+  pk: 2
+  fields:
+    id: 2
+    name: en
+    teacher: ff
+
